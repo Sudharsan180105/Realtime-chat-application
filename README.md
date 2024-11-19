@@ -36,6 +36,7 @@ npm run start
 ```
 
 
-
+### Demo video link https://youtube.com/shorts/6KtT805I_Jk?feature=share
 
 #### Hope you liked this project, dont forget to ⭐ the repo.
+
